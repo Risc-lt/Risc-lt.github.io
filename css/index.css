@@ -1504,7 +1504,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://github.com/Risc-lt/Risc-lt.github.io/blob/main/img/wallheaven.jpeg?raw=true);
+  background: url(https://github.com/Risc-lt/Risc-lt.github.io/blob/main/img/wallheaven.jpeg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3374,15 +3374,9 @@ h1.page-title + .tag-cloud-list {
 #page-header {
   position: relative;
   width: 100%;
-  background-color: #49b1f5;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  -ms-transition: all 0.5s;
-  transition: all 0.5s;
 }
 #page-header.full_page {
   height: 100vh;
