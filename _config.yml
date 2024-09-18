@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruan Letian/Homepage"
+title                    : "Ruan Letian"
 title_separator          : "-"
 name                     : &name "Ruan Letian"
 description              : &description "Sophomore from Shanghai Jiao Tong University"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "Liang.png"
   name             : "Ruan Letian"
-  pronouns         : "he/his"
+  pronouns         : #"he/his"
   bio              : "Stay hungry, stay foolish."
-  location         : "Earth"
+  location         : "Shanghai, China / Ann Abor, USA"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "ruanlt420@gmail.com" 
@@ -65,13 +65,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "s1mplore"
+  twitter          : #"s1mplore"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "Risc-lt"
+  zhihu            : #"Risc-lt"
 
 # Publication Category - The following the list of publication categories and their headings
 # publication_category:
