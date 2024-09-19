@@ -1,7 +1,7 @@
 ---
 title: "Effective Modern C++ Notes (5)"
 excerpt: "当你第一次了解到移动语义（move semantics）和完美转发（perfect forwarding）的时候，它们看起来非常直观"
-collection: docs
+collection: potfolio
 ---
 
 ## CHAPTER 5 RValue References, Move Semantics and Perfect Forwarding

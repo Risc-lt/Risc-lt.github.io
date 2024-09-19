@@ -1,7 +1,7 @@
 ---
 title: "CS15-213 Introduction to Computer Systems"
-excerpt: "计算机系统或者说体系结构，素来属于计算机专业学生的基本功，于是为了加深对系统的理解，笔者开启了这门著名的Computer Systems: A Programmer's Perspective (CS:APP)。"
-collection: docs
+excerpt: "计算机系统或者说体系结构，素来属于计算机专业学生的基本功，于是为了加深对系统的理解，笔者开启了这门著名的Computer Systems: A Programmer's Perspective (CS:APP)。在欧洲进行交换项目的同时，笔者用了大概一个半月的时间收掉了这门课。从刚开始对于bit\byte都不太熟悉，到最后手搓Malloc函数、设计自己的proxy服务器、实现简易的类shell的命令行解释器tsh，整个过程让我如痴如醉，对计算机系统的理解肉眼可见地日益加深。"
+collection: potfolio
 ---
 
 # 前言（Intro)

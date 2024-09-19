@@ -1,7 +1,7 @@
 ---
 title: "Linux系统(Ubuntu/Arch)下Kitty安装指南"
 excerpt: "*kitty* is designed for power keyboard users. To that end all its controls work with the keyboard (although it fully supports mouse interactions as well). Its configuration is a simple, human editable, single file for easy reproducibility (I like to store configuration in source control)."
-collection: docs
+collection: potfolio
 ---
 
 # Kitty

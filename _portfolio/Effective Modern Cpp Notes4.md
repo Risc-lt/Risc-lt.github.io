@@ -1,7 +1,7 @@
 ---
 title: "Effective Modern C++ Notes (4)"
 excerpt: "我们可以试着枚举一些为什么原始指针很难被爱的原因："
-collection: docs
+collection: potfolio
 ---
 
 ## CHAPTER 4 Smart Pointers

@@ -1,7 +1,7 @@
 ---
 title: "CS142 Web Applications"
-excerpt: "为了兼顾课业以及同期开始的Computer Organization，笔者收掉这门课的跨度大概是两个月的时间。最开始的目的只是熟悉基本的框架和操作，但其中的project一脉相承，算是比较不错的练习"
-collection: docs
+excerpt: "为了兼顾课业以及同期开始的Computer Organization，笔者收掉这门课的跨度大概是两个月的时间。最开始的目的只是熟悉基本的框架和操作，但其中的project一脉相承，算是比较不错的练习。打算开始学习这门课程之前，笔者也横向对比过MIT的Web Development Crash Course，其优势是除Slides外还有配套的视频讲解，不至于像142中需要自己查找大量的资料来辅助理解，当然最重要的一点是，142的框架相较于前者比较单一的前端开发和页面设计更加全面，Anyway，如果想学习具体的前端开发乃至于全栈开发，笔者并不推荐单看这门课的lecture，因为0基础实操起project的时候确实会有一个很痛苦的起步过程。而笔者写下这个通关记录，既是分享经历，也是想从头梳理一下这个项目，看看自己究竟掌握到了何种程度。"
+collection: potfolio
 ---
 
 # 前言（Intro)

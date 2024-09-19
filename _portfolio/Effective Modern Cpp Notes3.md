@@ -1,7 +1,7 @@
 ---
 title: "Effective Modern C++ Notes (3)"
 excerpt: "C++11使用统一初始化（*uniform initialization*）来整合这些混乱且不适于所有情景的初始化语法，所谓统一初始化是指在任何涉及初始化的地方都使用单一的初始化语法。 "
-collection: docs
+collection: potfolio
 ---
 
 ## CHAPTER 3 Moving to Modern C++

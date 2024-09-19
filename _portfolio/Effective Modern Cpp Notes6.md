@@ -1,7 +1,7 @@
 ---
 title: "Effective Modern C++ Notes (6)"
 excerpt: "与*lambda*相关的词汇可能会令人疑惑，这里做一下简单的回顾："
-collection: docs
+collection: potfolio
 ---
 
 ## CHAPTER 6 Lambda Expressions

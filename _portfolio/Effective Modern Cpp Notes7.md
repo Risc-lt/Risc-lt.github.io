@@ -1,7 +1,7 @@
 ---
 title: "Effective Modern C++ Notes (7)"
 excerpt: "C++11的伟大成功之一是将并发整合到语言和库中。熟悉其他线程API（比如pthreads或者Windows threads）的开发者有时可能会对C++提供的斯巴达式（译者注：应该是简陋和严谨的意思）功能集感到惊讶，这是因为C++对于并发的大量支持是在对编译器作者约束的层面。"
-collection: docs
+collection: potfolio
 ---
 
 ## CHAPTER 7 The Concurrency API

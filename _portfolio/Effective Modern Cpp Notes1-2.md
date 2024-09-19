@@ -2,7 +2,7 @@
 title: 
 title: "Effective Modern C++ Notes (1-2)"
 excerpt: "如果你不介意浏览少许伪代码，我们可以考虑像这样一个函数模板"
-collection: docs
+collection: potfolio
 ---
 
 ## Chapter 1 类型推导
